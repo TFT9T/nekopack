@@ -6,7 +6,7 @@ Main source is here [main source](https://github.com/TFT9T/nekopack) fork and gi
 
 ## Deploy
 
-fork this repo and [main repo](https://github.com/sandy1709/catuserbot) and click on deploy
+fork this repo and [main repo](https://github.com/TFT9T/catuserbot) and click on deploy
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
