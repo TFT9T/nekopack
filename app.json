@@ -1,13 +1,13 @@
 {
-  "name": "TFT4T",
-  "description": "اهلا وسهلا بك باقوى سورس وهو سورس العرب والسورس مجاني للكل وليس مدفوع  ",
+  "name": "TFT0T",
+  "description": "ارحب بك بسورس العرب المجاني نصب وانت مرتاح ",
   "logo": "https://telegra.ph/file/8dee609d275d9e650b3ee.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/TFT9T/nekopack",
+  "repository": "https://github.com/TFT9T/catuserbot/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -53,7 +53,7 @@
     },
     "TZ": {
       "description": "Required for Correct Time on autopic/get time. Know your timezone from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
-      "value": "Asia/Riyadh",
+      "value": "Asia/Kolkata",
       "required": false
     },
     "UPSTREAM_REPO": {
